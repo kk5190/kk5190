@@ -1,4 +1,12 @@
-### Hi! 👋 I'm [Krishna](https://krishnasingh.co.in)
+# [Krishna Singh](https://krishnasingh.co.in)
+
+- 🔭 I’m currently working at [Acquia](https://www.acquia.com/) as a Software Engineer
+- 🌱 I’m currently learning Reactjs, AWS
+- 📫 How to reach me: [@krishnaksingh](https://twitter.com/krrishnaksingh)
+- 💬 Ask me about [Drupal](https://www.drupal.org/), [PHP](https://www.php.net/)
+
+<img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=kk5190&hide_border=true&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kk5190&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=10&theme=nightowl&&hide=c,groff" />
+  
 
 <!--
 Here are some ideas to get you started:
