@@ -21,7 +21,8 @@
 - 💬 Ask me about [Drupal](https://www.drupal.org/), [PHP](https://www.php.net/)
 <hr>
 <p>
-<img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=kk5190&hide_border=true&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kk5190&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=10&theme=nightowl" />
+<img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=kk5190&hide_border=true&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kk5190&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=10&theme=nightowl" /><img height="137px" src="https://leetcard.jacoblin.cool/kk5190?theme=dark&font=Nobile" />
+
 </p>
 
 
