@@ -1,4 +1,4 @@
-<a href="https://twitter.com/krrishnaksingh" target="_blank" rel="nofollow"><img align="right" alt="Krishna's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/krishnaksingh" target="_blank" rel="nofollow"><img align="right" alt="Krishna's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://leetcode.com/kk5190" target="_blank" rel="nofollow"><img align="right" alt="Krishna's LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" /></a><a href="https://twitter.com/krrishnaksingh" target="_blank" rel="nofollow"><img align="right" alt="Krishna's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/krishnaksingh" target="_blank" rel="nofollow"><img align="right" alt="Krishna's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
 # [Krishna Singh](https://krishnasingh.co.in)
 <p>
