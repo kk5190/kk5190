@@ -51,8 +51,4 @@ src="https://img.shields.io/github/followers/kk5190?logo=github&style=for-the-ba
 
 <a href="https://github.com/kk5190" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kk5190&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
 
-<a href="https://github.com/kk5190/Reader-Of-Appliance-Display" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kk5190&repo=Reader-Of-Appliance-Display&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-<a href="https://github.com/kk5190/ModernArtUI" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kk5190&repo=ModernArtUI&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-<a href="https://github.com/kk5190/Problem-Solving" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kk5190&repo=Problem-Solving&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
