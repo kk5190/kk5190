@@ -9,7 +9,7 @@ A Full Stack developer with more than six years of experience in site building, 
 * ✉️  You can contact me at [kk5190krrish@gmail.com](mailto:kk5190krrish@gmail.com)
 * 🧠  I'm learning React, WS
 * 🤝  I'm open to collaborating on Drupal
-* ⚡  I am not Batman.
+
 
 <a href="https://www.twitter.com/krrishnaksingh" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/krrishnaksingh?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
