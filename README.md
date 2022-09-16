@@ -33,7 +33,7 @@ A Full Stack developer with more than six years of experience in site building, 
 
 ### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/kk5190"><img src="https://activity-graph.herokuapp.com/graph?username=kk5190&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
+<p align="left">
+<a href="https://certification.acquia.com/user/16696" target="_blank" rel="noreferrer"><img src="https://certification.acquia.com/sites/default/files/images/badges/Developer%20%28Drupal%209%29_0.png" alt="Drupal Developer" /></a>
+<a href="https://certification.acquia.com/user/16696" target="_blank" rel="noreferrer"><img src="https://certification.acquia.com/sites/default/files/images/badges/Front%20End%20Specialist%20%28Drupal%209%29.png" alt="Drupal Front End Specialist" /></a>
+</p>
