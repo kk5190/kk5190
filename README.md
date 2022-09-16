@@ -9,12 +9,6 @@ A Full Stack developer with more than six years of experience in site building, 
 * 🧠  I'm learning React, AWS
 * 🤝  I'm open to collaborating on Drupal
 
-
-<a href="https://www.twitter.com/krrishnaksingh" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/krrishnaksingh?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/kk5190" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/kk5190?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 ### Skills
 
 <p align="left">
