@@ -4,11 +4,6 @@
 
 A Full Stack developer with more than six years of experience in site building, frontend and backend development. Driven to provide excellent service and high-quality coding to create secure and functional sites for clients. Expert in Drupal content management systems and up to date on the latest developments and versions.
 
-* 🖥️  See my portfolio at [krishnasingh.co.in](http://www.krishnasingh.co.in/)
-* ✉️  You can contact me at [kk5190krrish@gmail.com](mailto:kk5190krrish@gmail.com)
-* 🧠  I'm learning React, AWS
-* 🤝  I'm open to collaborating on Drupal
-
 ### Skills
 
 <p align="left">
