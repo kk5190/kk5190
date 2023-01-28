@@ -30,8 +30,6 @@ A Full Stack developer with more than six years of experience in site building, 
 
 [![@kk5190's Holopin board](https://holopin.io/api/user/board?user=kk5190)](https://holopin.io/@kk5190)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kk5190" alt="kk5190" /></a> </p>
-
 <p align="left">
 <a href="https://certification.acquia.com/user/16696" target="_blank" rel="noreferrer"><img src="https://certification.acquia.com/sites/default/files/images/badges/Developer%20%28Drupal%209%29_0.png" alt="Drupal Developer" /></a>
 <a href="https://certification.acquia.com/user/16696" target="_blank" rel="noreferrer"><img src="https://certification.acquia.com/sites/default/files/images/badges/Front%20End%20Specialist%20%28Drupal%209%29.png" alt="Drupal Front End Specialist" /></a>
