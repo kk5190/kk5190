@@ -2,7 +2,7 @@
 
 ##### Software Engineer @ [Acquia](https://www.acquia.com/)
 
-A Full Stack developer with more than six years of experience in site building, frontend and backend development. Driven to provide excellent service and high-quality coding to create secure and functional sites for clients. Expert in Drupal content management systems and up to date on the latest developments and versions.
+A Full Stack developer with more than seven years of experience in site building, frontend and backend development. Driven to provide excellent service and high-quality coding to create secure and functional sites for clients. Expert in Drupal content management systems and up to date on the latest developments and versions.
 
 ### Skills
 
