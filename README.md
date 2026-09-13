@@ -1,33 +1,18 @@
-# Hi there, I'm Krishna K Singh 👋
+**Krishna Kumar Singh**
 
-## 👨‍💻 About Me
-I'm a **Senior Software Engineer** specializing in web development with a strong focus on **PHP**, **JavaScript**, and **Python**. I have extensive experience architecting and developing scalable solutions in the Drupal ecosystem, and I am passionate about open source and knowledge sharing.
+Enterprise frontend architect and software engineer with over a decade of experience focused on technical system design, scalable web platforms, and frontend architecture. AI-driven development workflows, Model Context Protocol (MCP) integrations, and developer tooling alongside modern frontend systems (Angular).
 
-- 🔧 Actively maintaining and contributing to Drupal modules
-- 🌱 Always learning and exploring new technologies
-- 🤝 Open to collaborations and new opportunities
-- ♟️ Chess enthusiast & gardening lover
+**Focus & Tech Stack**
+* **Frontend Architecture:** Angular, TypeScript, micro-frontends.
+* **AI Tooling & Workflows:** MCP agent systems, spec-driven development, token optimization.
+* **Backend & Core:** PHP/Drupal, Python, Node.js.
 
-## 🚀 Skills & Technologies
-- **Languages:** PHP, JavaScript, Python
-- **Frameworks/CMS:** Drupal
-- **Expertise:** Web development, API integration, Module development, Performance optimization
+**Built & Contributed**
+* [Acquia Personalization](https://www.drupal.org/project/acquia_perz) – Real-time decisioning and content personalization.
+* [Acquia-VWO Connect](https://www.drupal.org/project/acquia_vwo) – Enterprise experimentation and testing integration engine.
+* Open-source tooling, Drupal ecosystem contributions, and developer utilities.
 
-## 🏆 Featured Projects
-- [Acquia Personalization (acquia_perz)](https://www.drupal.org/project/acquia_perz) — Maintainer  
-  Advanced personalization integration for Drupal sites.
-- [Acquia VWO Integration (acquia_vwo)](https://www.drupal.org/project/acquia_vwo) — Maintainer  
-  Powerful A/B testing and optimization tools for Drupal.
+**Disconnecting**
+When stepping away from the keyboard, I play chess, tend to container gardening (mostly turmeric), and experiment with clean minimalist workflows.
 
-> 📈 See all my [Drupal.org issue credits](https://www.drupal.org/u/kk5190/issue-credits)
-
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Krishna%20K%20Singh-blue?logo=linkedin)](https://www.linkedin.com/in/krishnaksingh/)
-
-## 🌱 Hobbies & Interests
-- **Gardening:** Growing plants is my way to relax and recharge
-- **Chess:** Love the strategy and challenge of the game
-
----
-
-Let's connect and create something amazing together!
+[LinkedIn](https://www.linkedin.com/in/krishnaksingh/) · [Drupal Credits](https://www.drupal.org/u/kk5190/issue-credits)
